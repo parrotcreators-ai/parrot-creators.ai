@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://parrot-creatores-atzhz9.teleporthq.app/sitemap.xml
+Sitemap: https://parrot-creatores-12-02-uvvc17.teleporthq.app/sitemap.xml
